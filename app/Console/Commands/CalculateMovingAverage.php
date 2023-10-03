@@ -51,7 +51,6 @@ class CalculateMovingAverage extends Command
         // add the Moving Average values to the sheet
         $this->setMovingAverage($sheetId, $header, $movingAverage);
 
-
         $this->info('Moving average updated successfully.');
     }
 
