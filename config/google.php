@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'credentials' => storage_path('app/service_account_credentials.json')
+    'credentials' => storage_path(env('GOOGLE_SERVICE_ACCOUNT'))
 ];
