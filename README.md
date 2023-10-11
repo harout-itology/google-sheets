@@ -22,7 +22,6 @@ A Laravel application to calculate the moving average of daily website visitors 
     ```bash
     git clone https://github.com/harout-itology/google-sheets.git
     cd google-sheets
-    git checout develop 
     ```
 
 2. **Install Dependencies**
